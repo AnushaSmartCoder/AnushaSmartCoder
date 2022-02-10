@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anusha Chinnapeeri</h1>
 <h3 align="center">A sage Data Analyst</h3>
 
+<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif">
+
 - 🔭 I’m currently working on **Python DataScience**
 
 - 🌱 I’m currently learning **Advanced analytical Skills**
