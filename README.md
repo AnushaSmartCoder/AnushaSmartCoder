@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **python and Statistical Algorithmic Coding**
 
-- 👨‍💻 All of my projects are available at [github.com/AnushaSmartCoder(github.com/AnushaSmartCoder)
+- 👨‍💻 All of my projects are available at github.com/AnushaSmartCoder
 
 - 📝 I regularly write articles on [python and DataScience](python and DataScience)
 
